@@ -118,8 +118,7 @@ export default function Home() {
             Afin de donner vie à leurs personnages, les furries font appel à des artistes de la communauté pour, par exemple : les dessiner, écrire des histoires ou créer des costumes appelé fursuits.              
                               </p>
                             <p>
-                                Créée en 2018, l’association 
-                              <b>Les bulles de poils</b> compte aujourd’hui une vingtaine de membres. Nous participons régulièrement aux événements et
+                                Créée en 2018, l’association <b>Les bulles de poils</b> compte aujourd’hui une vingtaine de membres. Nous participons régulièrement aux événements et
                                 festivités de la ville de Reims dans nos costumes ou non, pour le plaisir de tous. Nous organisons des sorties thématiques lors des fêtes Johanniques,
                                 du marché de Noël de Reims ou des sorties au parc de Champagne. Nous serions heureux et heureuses de vous y retrouver !
                               
@@ -217,7 +216,7 @@ export default function Home() {
                     Les membres
                   </h2>
                 <p className="text-xl text-gray-500">
-                    Volontaires, bénévoles, artistes, fursuiters ou non          
+                    Volontaires, bénévoles, artistes, fursuiters.
                   </p>
               </div>
               <ul role="list" className="pb-16 space-y-12 sm:grid sm:grid-cols-2 sm:gap-x-6 sm:gap-y-12 sm:space-y-0 lg:grid-cols-3 lg:gap-x-8">
