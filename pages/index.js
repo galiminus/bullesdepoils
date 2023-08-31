@@ -461,16 +461,16 @@ export default function Home() {
                 <li>
                   <div className="space-y-4">
                     <div className="aspect-w-3 aspect-h-2">
-                      <img className="object-cover rounded-lg shadow-lg" src="/members/silver.jpg" />
+                      <img className="object-cover rounded-lg shadow-lg" src="/members/fandawa.jpg" />
                     </div>
                     <div className="space-y-2">
                       <div className="space-y-1 text-lg font-medium leading-6">
                         <h3 className="text-pink-600">
-                      Silver
-                    </h3>
+                          Fandawa
+                        </h3>
                         <p className="text-sm text-gray-500">
-                      him
-                    </p>
+                          him
+                        </p>
                       </div>
                     </div>
                   </div>
