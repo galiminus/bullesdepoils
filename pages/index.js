@@ -257,23 +257,6 @@ export default function Home() {
                 <li>
                   <div className="space-y-4">
                     <div className="aspect-w-3 aspect-h-2">
-                      <img className="object-cover rounded-lg shadow-lg" src="/members/elena.jpg" />
-                    </div>
-                    <div className="space-y-2">
-                      <div className="space-y-1 text-lg font-medium leading-6">
-                        <h3 className="text-pink-600">
-                      Éléna
-                    </h3>
-                        <p className="text-sm text-gray-500">
-                      her / them
-                    </p>
-                      </div>
-                    </div>
-                  </div>
-                </li>
-                <li>
-                  <div className="space-y-4">
-                    <div className="aspect-w-3 aspect-h-2">
                       <img className="object-cover rounded-lg shadow-lg" src="/members/tshorni.jpg" />
                     </div>
                     <div className="space-y-2">
