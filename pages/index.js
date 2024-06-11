@@ -34,14 +34,6 @@ export default function Home() {
                         </a>
                       </div>
                     </div>
-                    <div className="hidden md:flex md:space-x-10">
-                      <a className="font-medium text-gray-500 hover:text-gray-900" href="#la-communaute">
-                        La communauté
-                      </a>
-                      <a className="font-medium text-gray-500 hover:text-gray-900" href="#les-membres">
-                        Les membres
-                      </a>
-                    </div>
                   </nav>
                 </div>
                 <div className="flex justify-center md:hidden">
